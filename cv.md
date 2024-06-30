@@ -11,7 +11,7 @@
 
 ## About me:
 
-Minsk,19. RSschool student, on the way to become front-end developer
+Minsk,22. RSschool student, on the way to become front-end developer
 
 ***
 
