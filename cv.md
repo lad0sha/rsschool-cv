@@ -19,4 +19,5 @@ I am a begginer frontend developer, now working as nail technologist:) I have av
 ```javascript
 function multiply(a, b){
   return a * b;
-}```
+}
+```
