@@ -2,6 +2,8 @@
 
 ## Junior Frontend Developer
 
+<img src="https://github.com/user-attachments/assets/5274395f-57ae-49ca-8a31-719b841e6a48" width="80" height="80"/>
+
 ### Contact information
 *  **Phone:** +375333947780
 *  **Email:** lad0sha@yandex.by
