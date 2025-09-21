@@ -15,7 +15,8 @@ I am a begginer frontend developer, now working as nail technologist:) I have av
 *  **Version control:** Git, GitHub
 *  **Tools:** VS Code, Figma
 
-### Code Example```javascript
+### Code Example
+```javascript
 function multiply(a, b){
   return a * b;
-}
+}```
